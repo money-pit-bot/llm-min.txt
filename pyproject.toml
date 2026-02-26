@@ -20,7 +20,7 @@ classifiers = [
     "Programming Language :: Python :: 3.12",
 ]
 license = {file = "LICENSE"}
-urls = { Repository = "https://github.com/marvin1996325/llm-min" }
+urls = { Repository = "https://github.com/marv1nnnnn/llm-min.txt" }
 dependencies = [
     "crawl4ai>=0.6.2",
     "httpx>=0.27.0", # For async HTTP requests (alternative to requests)
